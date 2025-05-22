@@ -1,0 +1,13 @@
+# Core ML libraries
+pandas
+nump
+scikit-learn==1.6.1
+joblib
+
+# API & Web
+Flask
+Flask-CORS
+streamlit
+requests
+plotly
+
